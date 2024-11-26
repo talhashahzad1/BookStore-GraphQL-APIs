@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.deps.json
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.dll
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.pdb
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Application.dll
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Domain.dll
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Application.pdb
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Domain.pdb
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstor.84A2B250.Up2Date
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.dll
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\refint\Bookstore.Infrastructure.dll
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.pdb
+C:\Users\HP\Desktop\BookStore\Bookstore.Infrastructure\obj\Debug\net6.0\ref\Bookstore.Infrastructure.dll
